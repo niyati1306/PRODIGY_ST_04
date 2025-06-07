@@ -2,7 +2,7 @@
 
 ## **1. Test Overview**
 - **Web Page URL:** [https://shoplane-by-lassie.netlify.app/](https://shoplane-by-lassie.netlify.app/)
-- **Date of Testing:** 5th February
+- **Date of Testing:**8th June 
 - **Browsers Tested:** Chrome, Firefox, Safari, Edge
 - **Devices Tested:** Desktop, Tablet, Mobile
 - **Objective:** Identify layout issues, broken links, and functionality discrepancies across different browsers and devices.
